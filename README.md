@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @burmese-girl
+- 👋 Hi, I’m Python Developer from Myanmar.
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Python and react.js
 - 💞️ I’m looking to collaborate on data science
