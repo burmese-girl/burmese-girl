@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Python Developer from Myanmar.
+- 👋 Hi, I’m Python Developer living in UAE from Myanmar.
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Python and react-native
 - 💞️ I’m looking to collaborate on data science
