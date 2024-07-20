@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Python Developer living in UAE from Myanmar.
-- 👀 I’m interested in Python
+- 👀 I’m interested in Python and AI
 - 🌱 I’m currently learning Python and react-native
 - 💞️ I’m looking to collaborate on data science
 - 📫 How to reach me - devstella80@gmail.com
