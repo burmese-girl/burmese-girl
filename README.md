@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Senior Python Developer living in UAE from Myanmar.
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning new technologies and new mobile applications
-- 💞️ I’m looking to collaborate on data science
+- 💞️ I’m looking to collaborate on financial projects and data science
 - 📫 How to reach me - devstella80@gmail.com
 
 <!---
