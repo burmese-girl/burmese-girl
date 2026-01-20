@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Senior Python Developer living in UAE from Myanmar.
+- 👋 Hi, I’m Senior Python Developer
 - 👀 I’m interested in AI including machine learning and deep learning
 - 🌱 I’m currently learning new technologies and new mobile applications
 - 💞️ I’m looking to collaborate on financial projects and data science
